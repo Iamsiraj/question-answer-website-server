@@ -1,0 +1,12 @@
+
+{
+  "name":"MyApp",
+  "dependencies":{
+    "express":"*",
+    "ejs":"*",
+    "body-parser":"*",
+    "mongoose":"*",
+    "q":"*"
+  }
+}
+
